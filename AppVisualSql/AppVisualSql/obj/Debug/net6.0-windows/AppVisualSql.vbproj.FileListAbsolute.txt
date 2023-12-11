@@ -1,0 +1,56 @@
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.exe
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.deps.json
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.runtimeconfig.json
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.pdb
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.AssemblyReference.cache
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.Form1.resources
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.GenerateResource.cache
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.AssemblyInfoInputs.cache
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.AssemblyInfo.vb
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.CoreCompileInputs.cache
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.CopyComplete
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\refint\AppVisualSql.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.pdb
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.genruntimeconfig.cache
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\ref\AppVisualSql.dll
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.Form2.resources
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.LoginForm.resources
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.RegisterUserForm.resources
+C:\Users\Humberto Arzate\source\repos\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.UpdateUserForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.exe
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.deps.json
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.runtimeconfig.json
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\AppVisualSql.pdb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.AssemblyReference.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.Form1.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.Form2.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.LoginForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.RegisterUserForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.UpdateUserForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.GenerateResource.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.AssemblyInfoInputs.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.AssemblyInfo.vb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.CoreCompileInputs.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.vbproj.CopyComplete
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\refint\AppVisualSql.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.pdb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\AppVisualSql.genruntimeconfig.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\AppVisualSql\AppVisualSql\obj\Debug\net6.0-windows\ref\AppVisualSql.dll
